@@ -1,0 +1,30 @@
+name: Daily Job Scraper
+on:
+  schedule:
+    - cron: '0 8 * * *' # 每天 UTC 时间 8 点 (约北京时间下午 4 点/美东早 4 点) 运行
+  workflow_dispatch: # 允许你手动点击一个按钮来运行它
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 获取仓库代码
+        uses: actions/checkout@v3
+      
+      - name: 配置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: 运行爬虫脚本
+        run: python scraper.py
+        
+      - name: 提交并保存新数据到 GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/jobs_data.json
+          git commit -m "Automated data update" || exit 0
+          git push
