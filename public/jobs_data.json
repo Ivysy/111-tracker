@@ -10,7 +10,7 @@
     "sources": [
       "System"
     ],
-    "description": "如果看到这条提示，说明 GitHub 的 IP 当前暂时无法连接到招聘网站的底层数据。建议查看 GitHub Actions 日志排查。",
+    "description": "如果看到这条提示，说明抓取失败。请务必检查 scraper.py 代码中的网址是否被意外加上了方括号[]或圆括号()。",
     "url": "[https://jobs.biontech.com/go/All-Jobs/8781301/](https://jobs.biontech.com/go/All-Jobs/8781301/)"
   }
 ]
