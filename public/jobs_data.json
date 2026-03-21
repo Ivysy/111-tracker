@@ -1,5 +1,33 @@
 [
   {
+    "title": "(Associate) Director Global Data, Analytics and AI Platforms",
+    "level": "Director",
+    "department": "BioNTech",
+    "location": "London, GB, SW1H 0DB +1 more…",
+    "date": "Mar 21, 2026",
+    "status": "Active",
+    "sources": [
+      "BioNTech"
+    ],
+    "description": "暂无详细描述",
+    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/London-%28Associate%29-Director-Global-Data%2C-Analytics-and-AI-Platforms-SW1H-0DB/1266385801/",
+    "id": 1
+  },
+  {
+    "title": "Director, Commercial Supply Chain Readiness",
+    "level": "Director",
+    "department": "BioNTech",
+    "location": "Gaithersburg, MD, US, MD 20878",
+    "date": "Mar 21, 2026",
+    "status": "Active",
+    "sources": [
+      "BioNTech"
+    ],
+    "description": "暂无详细描述",
+    "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Gaithersburg-Director%2C-Commercial-Supply-Chain-Readiness-MD-MD-20878/1240324301/",
+    "id": 2
+  },
+  {
     "title": "Medical Director (Lung/GI focus)",
     "level": "Director",
     "department": "BioNTech",
@@ -11,7 +39,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Medical-Director-%28LungGI-focus%29-NJ-NJ-07922/1366073033/",
-    "id": 1
+    "id": 3
   },
   {
     "title": "Medical Director",
@@ -25,7 +53,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Medical-Director-NJ-NJ-07922/1366074533/",
-    "id": 2
+    "id": 4
   },
   {
     "title": "Associate Director, Clinical Quality Assurance",
@@ -39,7 +67,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Associate-Director%2C-Clinical-Quality-Assurance-MA-MA-02139/1265888201/",
-    "id": 3
+    "id": 5
   },
   {
     "title": "Director Global Regulatory Affairs (Oncology)",
@@ -53,7 +81,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Director-Global-Regulatory-Affairs-%28Oncology%29-RP-55131/1225434801/",
-    "id": 4
+    "id": 6
   },
   {
     "title": "Senior Director, Statistical Programming",
@@ -67,7 +95,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Senior-Director%2C-Statistical-Programming-MA-MA-02139/1265372401/",
-    "id": 5
+    "id": 7
   },
   {
     "title": "Associate Director Audit & Inspection Management",
@@ -81,7 +109,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-Associate-Director-Audit-&-Inspection-Management-SH-200041/1265311001/",
-    "id": 6
+    "id": 8
   },
   {
     "title": "Senior Director / Director Clinical Development, Oncology",
@@ -95,7 +123,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Senior-Director-Director-Clinical-Development%2C-Oncology-MA-MA-02139/1265512701/",
-    "id": 7
+    "id": 9
   },
   {
     "title": "Senior Director, Clinical Science - Oncology",
@@ -109,7 +137,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Senior-Director%2C-Clinical-Science-Oncology-MA-MA-02139/1217272501/",
-    "id": 8
+    "id": 10
   },
   {
     "title": "Associate Director, Country Clinical Operations, UK",
@@ -123,7 +151,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/London-Associate-Director%2C-Country-Clinical-Operations%2C-UK-SW1H-0DB/1264955801/",
-    "id": 9
+    "id": 11
   },
   {
     "title": "Director Clinical Operations",
@@ -137,7 +165,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Director-Clinical-Operations-RP-55131/1255560501/",
-    "id": 10
+    "id": 12
   },
   {
     "title": "Director, External Innovations (MD)",
@@ -151,7 +179,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Director%2C-External-Innovations-%28MD%29-MA-MA-02139/1265145401/",
-    "id": 11
+    "id": 13
   },
   {
     "title": "Associate Director, Safety Scientist",
@@ -165,7 +193,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Associate-Director%2C-Safety-Scientist-MA-MA-02139/1365127633/",
-    "id": 12
+    "id": 14
   },
   {
     "title": "Associate Director SCM Compliance",
@@ -179,7 +207,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-SCM-Compliance-RP-55130/1197947801/",
-    "id": 13
+    "id": 15
   },
   {
     "title": "Executive Director, Clinical Science",
@@ -193,7 +221,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/London-Executive-Director%2C-Clinical-Science-SW1H-0DB/1253848401/",
-    "id": 14
+    "id": 16
   },
   {
     "title": "Senior Director, Safety Officer China",
@@ -207,7 +235,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-Senior-Director%2C-Safety-Officer-China-SH-200041/1214307501/",
-    "id": 15
+    "id": 17
   },
   {
     "title": "Director, Global Clinical Operations (US Remote)",
@@ -221,7 +249,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Director%2C-Global-Clinical-Operations-%28US-Remote%29-NJ-NJ-07922/1253038401/",
-    "id": 16
+    "id": 18
   },
   {
     "title": "Senior Director, Regional Medical Science Liaisons (US West)",
@@ -235,7 +263,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/San-Francisco-Senior-Director%2C-Regional-Medical-Science-Liaisons-%28US-West%29-CA-94110/1374811633/",
-    "id": 17
+    "id": 19
   },
   {
     "title": "Director Statistical Programming SDTM Data Integration & Submission",
@@ -249,7 +277,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Director-Statistical-Programming-SDTM-Data-Integration-&-Submission-RP-55116/1374827633/",
-    "id": 18
+    "id": 20
   },
   {
     "title": "Associate Director Internal Corporate & Management Reporting",
@@ -263,7 +291,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-Internal-Corporate-&-Management-Reporting-RP-55116/1373957233/",
-    "id": 19
+    "id": 21
   },
   {
     "title": "Associate Director Clinical Quality Assurance",
@@ -277,7 +305,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/London-Associate-Director-Clinical-Quality-Assurance-SW1H-0DB/1293726901/",
-    "id": 20
+    "id": 22
   },
   {
     "title": "Executive Director, Government Affairs and Market Access, China",
@@ -291,7 +319,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-Executive-Director%2C-Government-Affairs-and-Market-Access%2C-China-SH-200041/1293511401/",
-    "id": 21
+    "id": 23
   },
   {
     "title": "Associate Director Digital Systems Compliance",
@@ -305,7 +333,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-Digital-Systems-Compliance-RP-55131/1373783633/",
-    "id": 22
+    "id": 24
   },
   {
     "title": "Director, Analytical Development",
@@ -319,7 +347,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Gaithersburg-Director%2C-Analytical-Development-MD-MD-20878/1373650733/",
-    "id": 23
+    "id": 25
   },
   {
     "title": "Senior Director, Biostatistics",
@@ -333,7 +361,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Senior-Director%2C-Biostatistics-MA-MA-02139/1373834933/",
-    "id": 24
+    "id": 26
   },
   {
     "title": "Associate Director Logistics CI & Project Management",
@@ -347,7 +375,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-Logistics-CI-&-Project-Management-RP-55131/1292781801/",
-    "id": 25
+    "id": 27
   },
   {
     "title": "Associate Director Business Process Owner L2C Sub-Processes",
@@ -361,7 +389,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-Business-Process-Owner-L2C-Sub-Processes-RP-55116/1372393633/",
-    "id": 26
+    "id": 28
   },
   {
     "title": "Director, Strategic Clinical Vendor Management",
@@ -375,7 +403,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Director%2C-Strategic-Clinical-Vendor-Management-MA-MA-02139/1372764933/",
-    "id": 27
+    "id": 29
   },
   {
     "title": "Associate Director IT Infrastructure Services",
@@ -389,7 +417,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Associate-Director-IT-Infrastructure-Services-RP-55116/1372515333/",
-    "id": 28
+    "id": 30
   },
   {
     "title": "Director Process Engineering",
@@ -403,7 +431,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Director-Process-Engineering-RP-55131/1291735001/",
-    "id": 29
+    "id": 31
   },
   {
     "title": "Director, Regional Logistics Operations ASIA",
@@ -417,7 +445,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-Director%2C-Regional-Logistics-Operations-ASIA-SH-200041/1371429433/",
-    "id": 30
+    "id": 32
   },
   {
     "title": "Associate Director, Global Market Research",
@@ -431,7 +459,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Associate-Director%2C-Global-Market-Research-NJ-NJ-07922/1371328433/",
-    "id": 31
+    "id": 33
   },
   {
     "title": "Associate Director AS&T Manufacturing Network",
@@ -445,7 +473,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Gaithersburg-Associate-Director-AS&T-Manufacturing-Network-MD-MD-20878/1253766801/",
-    "id": 32
+    "id": 34
   },
   {
     "title": "Associate Director, Clinical Science",
@@ -459,7 +487,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Cambridge-Associate-Director%2C-Clinical-Science-MA-MA-02139/1290916501/",
-    "id": 33
+    "id": 35
   },
   {
     "title": "Senior Director Integration Management (m/w/d)",
@@ -473,7 +501,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Senior-Director-Integration-Management-%28mwd%29-RP-55116/1371111133/",
-    "id": 34
+    "id": 36
   },
   {
     "title": "Director, State Government Relations",
@@ -487,7 +515,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Berkeley-Heights-Director%2C-State-Government-Relations-NJ-NJ-07922/1290575801/",
-    "id": 35
+    "id": 37
   },
   {
     "title": "Director AS&T Projects & Strategy",
@@ -501,7 +529,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Director-AS&T-Projects-&-Strategy-RP-55116/1370608833/",
-    "id": 36
+    "id": 38
   },
   {
     "title": "Senior Director, Safety Sciences Lead",
@@ -515,7 +543,7 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Mainz-Senior-Director%2C-Safety-Sciences-Lead-RP-55116/1288540501/",
-    "id": 37
+    "id": 39
   },
   {
     "title": "Director Corporate Communications",
@@ -529,6 +557,6 @@
     ],
     "description": "暂无详细描述",
     "url": "[https://jobs.biontech.com](https://jobs.biontech.com)/job/Shanghai-Director-Corporate-Communications-SH-200041/1287908101/",
-    "id": 38
+    "id": 40
   }
 ]
